@@ -14,4 +14,4 @@
 
 ### 🏆 We made it for you!
 [![GitHub saitanshu](https://img.shields.io/github/followers/saitanshu?label=follow&style=social)](https://github.com/saitanshu)&nbsp;
-![profile count](https://komarev.com/ghpvc/?username=saitanshu&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=saitanshu&color=white)&nbsp;
