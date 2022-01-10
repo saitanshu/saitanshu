@@ -12,5 +12,6 @@
 <a href="https://discord.com/users/761557941069152267"><img alt="Discord Normal Hesap" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 <a href="https://discord.com/users/817335518526177330"><img alt="Discord İş Hesabı" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 
-### 🥰 Total number of followers
+### 🏆 We made it for you!
 [![GitHub saitanshu](https://img.shields.io/github/followers/saitanshu?label=follow&style=social)](https://github.com/saitanshu)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=saitanshu&color=red)&nbsp;
