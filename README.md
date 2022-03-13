@@ -3,7 +3,6 @@
 - 🤖 Official founder of Dark Music (2021-2022).
 - 👀 I'm interested for Github...
 - 💻 I am currently learning ...
-- 💞️ Can you design my server for me?
 
 ### 📫 How can I reach you;
 <a href="mailto:saitaniletisimm@icloud.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" /></a> &nbsp;
